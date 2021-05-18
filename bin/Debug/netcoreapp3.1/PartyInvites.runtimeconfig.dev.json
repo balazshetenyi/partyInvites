@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Balazs/.dotnet/store/|arch|/|tfm|",
+      "/Users/Balazs/.nuget/packages"
+    ]
+  }
+}
